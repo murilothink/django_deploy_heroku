@@ -1,1 +1,1 @@
-# django_deploy_heroku
+# [Deploy Django Heroku Windows](http://jilcimar.github.io/)
